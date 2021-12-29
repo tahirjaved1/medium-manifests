@@ -9,6 +9,6 @@ spec:
   releaseName: fluxcd-demo
   targetNamespace: fluxcd-demo
   chart:
-    git: git@github.com:tahirjaved1/medium-manifests.git
+    git: git@github.com:tahirjaved1/medium-manifests
     path: helm-charts/fluxcd-demo
     ref: fluxcd-demo
